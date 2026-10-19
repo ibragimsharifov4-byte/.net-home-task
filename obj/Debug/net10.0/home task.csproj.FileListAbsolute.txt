@@ -1,0 +1,19 @@
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\bin\Debug\net10.0\home task.exe
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\bin\Debug\net10.0\home task.deps.json
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\bin\Debug\net10.0\home task.runtimeconfig.json
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\bin\Debug\net10.0\home task.dll
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\bin\Debug\net10.0\home task.pdb
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\bin\Debug\net10.0\Npgsql.dll
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.csproj.AssemblyReference.cache
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.AssemblyInfoInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.AssemblyInfo.cs
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.csproj.CoreCompileInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.csproj.Up2Date
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.dll
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\refint\home task.dll
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.pdb
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\home task.genruntimeconfig.cache
+C:\Users\mardin it\OneDrive\Desktop\.net projects\week1\day 1\home task\obj\Debug\net10.0\ref\home task.dll
